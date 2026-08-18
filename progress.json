@@ -104,24 +104,5 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787027007.0472,
-    "completed_at": 1787027022.927287,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787027077.535161,
-    "completed_at": 1787027094.399247,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
   }
 ]
